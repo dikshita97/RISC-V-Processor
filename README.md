@@ -30,12 +30,4 @@ After the simulation ends, you can see the simulation waves in the simulator. Yo
 
 **Note**: Do not check the dependency of a load instruction result on the next instruction, as the architecture does not support stalling.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Habib University for the course on Computer-Architecture
-* @hasanbaig for step-by-step well-formatted excercises to build this circuit.
 
